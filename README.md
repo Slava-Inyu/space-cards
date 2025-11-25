@@ -1,5 +1,8 @@
 # Space Cards
 
+List of space cards.
+Labels with numbers indicate element's render count.
+
 ## Set up
 
 - `npm install`
