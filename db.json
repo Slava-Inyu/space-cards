@@ -1,0 +1,54 @@
+{
+  "spaceCards": [
+    {
+      "id": 1,
+      "name": "Rocket",
+      "emoji": "🚀"
+    },
+    {
+      "id": 2,
+      "name": "Moon",
+      "emoji": "🌙"
+    },
+    {
+      "id": 3,
+      "name": "Saturn",
+      "emoji": "🪐"
+    },
+    {
+      "id": 4,
+      "name": "Star",
+      "emoji": "⭐"
+    },
+    {
+      "id": 5,
+      "name": "Comet",
+      "emoji": "☄️"
+    },
+    {
+      "id": 6,
+      "name": "Alien",
+      "emoji": "👽"
+    },
+    {
+      "id": 7,
+      "name": "Satellite",
+      "emoji": "🛰️"
+    },
+    {
+      "id": 8,
+      "name": "Telescope",
+      "emoji": "🔭"
+    },
+    {
+      "id": 9,
+      "name": "Galaxy",
+      "emoji": "🌌"
+    },
+    {
+      "id": 10,
+      "name": "Astronaut",
+      "emoji": "👨‍🚀"
+    }
+  ]
+}

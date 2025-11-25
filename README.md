@@ -22,12 +22,12 @@ Labels with numbers indicate element's render count.
 
 ## Bonus
 
-- Prevent double render
+- Prevent double render in dev environment
+- Refactor `api.ts`
 
 ## Additional Questions
 
 - Can `CardList` re-renders be optimized?
-- Why `getInitialState` is used?
 - Deep vs shallow props comparison in `memo`
 - What folder structure would you prefer as the project grows
 
