@@ -1,4 +1,3 @@
-import { memo } from "react";
 import RenderCounter from "./RenderCounter";
 
 
@@ -17,4 +16,4 @@ function Button({ onClick, theme, text }: Props) {
   );
 }
 
-export default memo(Button);
+export default Button;
