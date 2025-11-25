@@ -14,7 +14,7 @@
  
 ### Improvements:
 
-- Buttons are re-rendered when adding/removing items
+- Buttons should not be re-rendered when adding/removing items
 - In `Button.tsx` change `theme` type from union to enum
 
 ## Bonus
