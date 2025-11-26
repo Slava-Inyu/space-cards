@@ -1,10 +1,5 @@
 import { useRef } from "react";
 
-// type Props = {
-//   renderNumber: number;
-// };
-
-// // -- Ignore
 function RenderCounter() {
 
   const renderNumber = useRef(0);
